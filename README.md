@@ -1,5 +1,5 @@
 
-# Glassmorphism Admin Panel (starter template)
+# Glassmorphism Admin Panel
 
 This is the full source code download and enjoy. Don't forgot to give ⭐ this this repo.
 
